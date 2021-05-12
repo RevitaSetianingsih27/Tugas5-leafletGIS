@@ -3,6 +3,9 @@
 Kelompok 12
 Nama : Revita Setianingsih
 NPM  : 1917051058
+
+Nama : Angga Lesmana
+NPM : 1617051139
 */
 
 <head>
